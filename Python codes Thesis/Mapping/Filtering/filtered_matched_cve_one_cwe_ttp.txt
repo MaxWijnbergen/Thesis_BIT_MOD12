@@ -1,0 +1,632 @@
+CVEs found in 011f12612394b46e1a7ebedfebce510a075aef0aa3ca45091c1ced1216c2f818.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-787
+
+CVEs found in 0170b112805b3cf09b51da0a0e8f5bca92e18a3ee3a14a44815a2da98aa658b5.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 0262ee396c0ce7a240f2c1eb299db11a212f3d5d2f8c11143556bfbcf73b9725.txt:
+TTP: phishing, T1566
+TTP: process injection, T1055
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 031a875779366fad7b4d6f3f4077342c1c1682c2cd894e03c91adc7942d32c79.txt:
+TTP: rootkit, T1014
+TTP: execution, TA0002
+TTP: persistence, TA0003
+TTP: command and control, TA0011
+CWE-119
+
+CVEs found in 04a8152f85872564179fed704fcbe33f068e4014991669c273ef6eb2f372fcfd.txt:
+TTP: initial access, TA0001
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-787
+
+CVEs found in 05035618fb1a658c7287fb79f5c074a72abf1768058ba28accd72930c7bdf28e.txt:
+TTP: remote system discovery, T1018
+TTP: system network configuration discovery, T1016
+TTP: windows management instrumentation, T1047
+TTP: initial access, TA0001
+TTP: discovery, TA0007
+TTP: lateral movement, TA0008
+TTP: command and control, TA0011
+TTP: exfiltration, TA0010
+TTP: impact, TA0040
+CWE-22
+CWE-732
+
+CVEs found in 05caeeb3fff86e510364eeb34bd7160c7b0dd6270048f07694783c2771491ea7.txt:
+TTP: collection, TA0009
+CWE-119
+
+CVEs found in 070a50e304f4d8af93fa89b801a70f857adabbb236deabf23981e2bb2ba4b64c.txt:
+TTP: data from local system, T1005
+TTP: exploitation for client execution, T1203
+TTP: phishing, T1566
+TTP: proxy, T1090
+TTP: user execution, T1204
+TTP: web service, T1102
+TTP: initial access, TA0001
+TTP: execution, TA0002
+TTP: exfiltration, TA0010
+TTP: impact, TA0040
+CWE-94
+CWE-20
+
+CVEs found in 094260f95f47a0ef9485c2d4b25d61bfee1a09dad1f1151b765814e7f9130fab.txt:
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-20
+
+CVEs found in 0984dc3d95288c2c0e3a597914f840d1eedf1366ec55a3a897c1f94fc1c20596.txt:
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: persistence, TA0003
+TTP: collection, TA0009
+TTP: command and control, TA0011
+CWE-119
+CWE-416
+CWE-94
+
+CVEs found in 0988da1110aa6253adc946ff42e9e8e69b5d33dfce3aa80ef5be5fb8326fec4d.txt:
+TTP: execution, TA0002
+CWE-20
+
+CVEs found in 09cc97026a0843e2b77c434280856e6a0cf802b429aa6df8235098d5f6027d5e.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-269
+
+CVEs found in 0a8bf1c2a808ae4e711adb4a1800596999b9ff1529a961bb0519d7ba41235c1a.txt:
+TTP: execution, TA0002
+CWE-203
+
+CVEs found in 0c88ce16ccd2f77b1820654fb718680167cee6c4adc9a52dc97889ff44a6ea96.txt:
+TTP: data manipulation, T1565
+CWE-119
+
+CVEs found in 0db8f244586f57486796015164c11194983553ddd9163bd7432412dc08540713.txt:
+TTP: collection, TA0009
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in 0df2cd12a34fbf786b27dd705bad564aac1f4f440cc2bca355df93d164cc1381.txt:
+TTP: reconnaissance, TA0043
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in 0e00ac03c3976f15f2427f75388ae6f3949cda0a14279ec72b8075c91aa6208f.txt:
+TTP: command and control, TA0011
+CWE-78
+
+CVEs found in 107e428ead4ff88f104610520274005b9a216d249a1b53d3fd520270ce29def2.txt:
+TTP: proxy, T1090
+CWE-119
+
+CVEs found in 10b8ab2cb17b6509c1945be2cc199abef428e1dcdb0d5398d8822cff185f60be.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-20
+
+CVEs found in 10fb26fc32cc07df5c4052fecd53ac54c1cacf4e000c8fa21dec79f3bb754403.txt:
+TTP: impact, TA0040
+CWE-94
+CWE-89
+
+CVEs found in 13e567b4bfe93850ad823811f8a863683a1cab3da46dbed8e7eef58e3292e5b2.txt:
+TTP: proxy, T1090
+TTP: execution, TA0002
+CWE-20
+CWE-119
+
+CVEs found in 15ebc935de64faa20c532bea123f43c26bfb3928c3e18fd558224ac8d1c98c41.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-20
+
+CVEs found in 1917ddcefdcca8b37ffee0d897a525cb6b57fd69e76c22fef4e262e6b47d99e4.txt:
+TTP: execution, TA0002
+TTP: persistence, TA0003
+CWE-835
+
+CVEs found in 199f3d8664d7a272dc502830a9b7808a53832285367829203cead416b7cc1212.txt:
+TTP: web service, T1102
+TTP: impact, TA0040
+CWE-20
+
+CVEs found in 1a9fbde604cb6c11fbe7a21b4a5f54371c057a0af1d2c5eacae06befecbe9867.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-787
+
+CVEs found in 1e297cbd9aeeabb6b459867fa49fddfd563f441a44a871e8669d6b8fc91d26a1.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-787
+
+CVEs found in 22709260fd6b246ce0b3092e20bb8122f9ca5e46d2752402504b8e1c94aa3c4f.txt:
+TTP: execution, TA0002
+CWE-20
+
+CVEs found in 2550b05235588cd7ddc92a54aa2a03a106174c6ab3ddc471999882e58f0a7642.txt:
+TTP: execution, TA0002
+TTP: persistence, TA0003
+TTP: privilege escalation, TA0004
+CWE-120
+CWE-119
+CWE-20
+CWE-94
+
+CVEs found in 27f80f8596345dc014e6fb3880a00d3099b48fd393b0c3d27c360b89684f892d.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-119
+
+CVEs found in 28f9fa0319d387dd0e0cbb538628a209277f97d47c94bab1f303b9fe527b57c0.txt:
+TTP: phishing, T1566
+CWE-20
+
+CVEs found in 2b532276feec33956bbad849b23d739c9f2447c3fd8002107e930e5274fdceb7.txt:
+TTP: phishing, T1566
+TTP: web service, T1102
+TTP: execution, TA0002
+TTP: collection, TA0009
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in 2d448be4449559db70fdbc58d605e9e96aaa914e31148fe3c376e86555c5da1a.txt:
+TTP: masquerading, T1036
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-119
+CWE-284
+
+CVEs found in 33bf5c39327fded846e80c2c3ddcf5fa2a69cf7fbdc3b732c632adcbce88e176.txt:
+TTP: execution, TA0002
+TTP: command and control, TA0011
+CWE-20
+
+CVEs found in 34c521747f960e583587a16f228ec2bc0de7989607c01dd1bbfa56e944fdcf16.txt:
+TTP: execution, TA0002
+CWE-200
+
+CVEs found in 359445f3f0086dca098dfdbe964d486f96a3ddc42dc4a953f47d3c79e028f5c6.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 3663792b4875ea2e713d046b066931a8895a1bb7d7d66c2f05d1911966c97822.txt:
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in 367ab444066d4cccefea913c9875bb03bd6d659661333ecff9526b2a14e337ec.txt:
+TTP: execution, TA0002
+CWE-416
+CWE-787
+
+CVEs found in 3958c4e39392c1b3b4a31df76c7d63e7a4d9e3f339d36831bce42254ba17043e.txt:
+TTP: brute force, T1110
+TTP: execution, TA0002
+CWE-125
+
+CVEs found in 3ab770655d419d8eff1c38fc6c0089ae699b8485c8df58e1d01075dceecff6ff.txt:
+TTP: non-standard port, T1571
+TTP: phishing, T1566
+TTP: proxy, T1090
+TTP: execution, TA0002
+TTP: persistence, TA0003
+TTP: discovery, TA0007
+TTP: exfiltration, TA0010
+TTP: impact, TA0040
+CWE-78
+
+CVEs found in 3ce243e9a51a373e694f724adf32340d8b3f728ed1b5f3cd309ece14ac61bf1d.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-787
+
+CVEs found in 3e07cb10943e05815415bd43890fa2795537db0ba3c22f901a12053dd65efdef.txt:
+TTP: proxy, T1090
+TTP: impact, TA0040
+CWE-79
+
+CVEs found in 3faa4705b295e28651bbbc5aaab2df41da409cad6eb279086e0ea09f5ad879a2.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-787
+
+CVEs found in 454ace8b9164b4a6cf0ba01b7219bac2da53492fa90d14538cb339b9f3135a03.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 462610050465c80ad2246812fe92b28436e8534aa1c782e5df8cda686acb9f5d.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-787
+
+CVEs found in 465d1b40fbcad593935510c40d27b236b8b2545de821604da40d313479f8c08e.txt:
+TTP: modify registry, T1112
+CWE-119
+
+CVEs found in 472e194426dfa781e1500be648ca160dc809430c03d12420aa5d6d93db37bc79.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in 474b5425164e856268d03848e1dd5a56faa6dd843c8c237e0a13cd6aed69608d.txt:
+TTP: phishing, T1566
+TTP: proxy, T1090
+TTP: rootkit, T1014
+TTP: reconnaissance, TA0043
+TTP: initial access, TA0001
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+TTP: lateral movement, TA0008
+CWE-119
+
+CVEs found in 4a78853718b86dd8aad7953a1845cd09d3b2ebd81b7b5f84c54995ab31db3838.txt:
+TTP: modify registry, T1112
+TTP: proxy, T1090
+TTP: rootkit, T1014
+TTP: execution, TA0002
+TTP: persistence, TA0003
+CWE-119
+
+CVEs found in 4bf360a3174568b8792bd9429a5bee3eb4b7c351ad0a60c18235a9023db3c5f7.txt:
+TTP: execution, TA0002
+CWE-20
+
+CVEs found in 4f4d3880b8b7d8adcf01e16adbfbd6f0ff82d664ad10753da5f512cb432554c9.txt:
+TTP: execution, TA0002
+CWE-200
+
+CVEs found in 51c026c40e491a597cc9cfcf92b45aba353cd72296bc848413fd57b5e523a389.txt:
+TTP: impact, TA0040
+CWE-287
+
+CVEs found in 58dff0903a617131a34569811f89d29c1571476d165962bba53b0e0af69de46c.txt:
+TTP: collection, TA0009
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in 59038c7de249ab413814749ad41dd4ca954c2d60a3dcf7d55a9737b5084d8c15.txt:
+TTP: phishing, T1566
+TTP: proxy, T1090
+TTP: discovery, TA0007
+CWE-20
+
+CVEs found in 5bc65066627c10ea1a25d32af8f5e8cec9c035725e2d1b33ea05a662c6c93b8d.txt:
+TTP: phishing, T1566
+CWE-787
+
+CVEs found in 5bfa1e2e19149919e54b7a124e2ecad09629f11b43c3e9e85ecd27c1af05e8ee.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-125
+
+CVEs found in 5c3ec42cef8a4b30816e63124e8520cf2e6dcce8b7a4c06fd673a1c1e34e7d66.txt:
+TTP: browser extensions, T1176
+TTP: phishing, T1566
+TTP: collection, TA0009
+TTP: impact, TA0040
+CWE-200
+
+CVEs found in 5c451b575582a792d46e60877de02a7a19eda04d1b1832f06445fd859417982e.txt:
+TTP: browser extensions, T1176
+TTP: execution, TA0002
+CWE-200
+
+CVEs found in 5c54cb106f96f675c2241654daa9290404263c59d4ae248d3c89d389a7070c79.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 5f1d5ebde60a36344c5361282c64b8bfdb2fbfa77a618c295943114f0a7cc5d4.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-287
+
+CVEs found in 5f9d3c9bcfcbd8f2fbcc79741fbf59be5ebee37333735344c11a341f01b81d78.txt:
+TTP: proxy, T1090
+TTP: execution, TA0002
+TTP: exfiltration, TA0010
+CWE-200
+
+CVEs found in 634cde7ae8e2b4cf44a1a44c0b0d5f60324608567412e05ecc1ad005b199eade.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-203
+CWE-200
+
+CVEs found in 6799ea46c8cea085a82c1aa1fb094a8e9681a4c29a7d6b8ab641f3c1a2708c74.txt:
+TTP: rootkit, T1014
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-20
+CWE-119
+
+CVEs found in 68029b896cb6980f265daec2f1e7dbce0f8742aa8d24a3a361837a7f4dba4a82.txt:
+TTP: execution, TA0002
+CWE-269
+
+CVEs found in 6a54ff2f258a7bb6de27b1116ac9ebe89c2d636db1009635b5993d8c7d9d833d.txt:
+TTP: dynamic resolution, T1568
+TTP: execution, TA0002
+CWE-119
+CWE-94
+
+CVEs found in 6afed2fe73a295d1b7ee5e928a44740d7022a63a24d236002e28b5bfdf8d7623.txt:
+TTP: persistence, TA0003
+CWE-94
+
+CVEs found in 70118a9789f226a7953ad2bb624b984aded039279aaea0938ec3a642ea4c6ce8.txt:
+TTP: execution, TA0002
+CWE-78
+
+CVEs found in 7080b8f4a0911cb722e13c8e155281fa57a89addd7fbf17fa789cff904eeb578.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 730e6157fc7f282ade33071cc0102b3bc9e8dd4d014a6e84efc1971d92622f63.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in 746511e68d312175326d463a6ba404155f1cbd0518d043dd2f80508c11be0e8d.txt:
+TTP: browser extensions, T1176
+TTP: proxy, T1090
+TTP: execution, TA0002
+TTP: persistence, TA0003
+TTP: impact, TA0040
+CWE-20
+
+CVEs found in 7693df598bc14c6f6cb2bf99bf1f5586448e1bbe90fa7cec0ff805ae896f6edc.txt:
+TTP: phishing, T1566
+CWE-295
+
+CVEs found in 76b987b4e264b50dba44774caf62476b41a05d5d2f81dbe05e06fb05204804c6.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in 7bf1bdfcb6b16f3db3328b785bd167021bd1dfe43c605bcba20c3e52524fc6bd.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-415
+CWE-404
+
+CVEs found in 7e885cc097b8766fb9cd67dd4f9f493caf3fe318f1d6cc5a8512ee3236df690c.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in 826a6e730d8611116c518c108f2432464285bb7238b1320c01ed73bbcafe73b7.txt:
+TTP: browser extensions, T1176
+TTP: phishing, T1566
+TTP: rootkit, T1014
+CWE-787
+
+CVEs found in 85c51f25becb1aeed285ee0e85aa0495dfd3deaadb51b7a0dd009c3e32ffa282.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in 8b78e80c2770a2d0faecba98c665affcd5c51331920568f35896e894daaf6e5d.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-416
+
+CVEs found in 8f0b717aec26d566d27780b47b0a3d64324866fbf7ab93a6ed37f8caf82cebf1.txt:
+TTP: phishing, T1566
+CWE-20
+
+CVEs found in 94d6f26f90a7c1656fd4c5a95560498c478120fb9dfa6f135f443e3f5ea6e93b.txt:
+TTP: discovery, TA0007
+CWE-362
+
+CVEs found in 967edda0dfc043bd0db7b4ffd2a40f0daf5b35e0b960e445f93c258188488bae.txt:
+TTP: execution, TA0002
+TTP: persistence, TA0003
+TTP: privilege escalation, TA0004
+TTP: command and control, TA0011
+CWE-22
+
+CVEs found in 9845e15df533600afc3519de9f2c892b9510392e536fcb833a185b45b90bb6dd.txt:
+TTP: phishing, T1566
+TTP: reconnaissance, TA0043
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+TTP: exfiltration, TA0010
+CWE-416
+
+CVEs found in 9bb85d3dd67345cab1f0482ea59875bf25980b4a93c1fcd859317728e29393b7.txt:
+TTP: data obfuscation, T1001
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: collection, TA0009
+CWE-787
+
+CVEs found in a17982f0450fcdea7864addd4a5cfa67ea5d8141485a42647a37f9595a03ff1f.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-787
+
+CVEs found in a2872012197cc2a375d437a635db91a00facaad83c8ead6543b971730d1ca419.txt:
+TTP: execution, TA0002
+CWE-20
+
+CVEs found in a3a52e801da8bad6a6a79c95cb3a0d2386a0aac367f36adc6821b29222a2ba7b.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-89
+
+CVEs found in a54c2adcab5162079ddaf83ac5914ebcf08c2e347c79d075feed1612e83d8826.txt:
+TTP: brute force, T1110
+TTP: discovery, TA0007
+CWE-426
+CWE-119
+CWE-94
+
+CVEs found in aa6ebfd1eea5bf1270f7bc0049851fb4bb42d299dad6db07b3123380716ff5bb.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in ac0cd4bd9495e916e6aae7bf0f5dcf739a7f33bc35f1d51750ad996ee2f4dc5e.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+TTP: collection, TA0009
+CWE-502
+
+CVEs found in ac5d9e721eaa7eb7c84de81065760b384be1228e30911601d0f96ba4f6f06e2e.txt:
+TTP: execution, TA0002
+CWE-787
+CWE-346
+
+CVEs found in ac901f7fdb2d8c1e519ac7fcc77440b8cebb881691cc379162e116484acbf75d.txt:
+TTP: execution, TA0002
+CWE-94
+
+CVEs found in b3f83dfde625c61578cdd7cae41c05d768c1035cc5c02719a1ea671dfa920c01.txt:
+TTP: proxy, T1090
+CWE-89
+
+CVEs found in b6677598505ca3a12749f6e908dd2ec3b18bcb66e81c2cac0edd30af86a53837.txt:
+TTP: proxy, T1090
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in b980ae389fa8a9e1097e70a9c2be9777e6d75109098f360aa4a7084ebc6dcef0.txt:
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-78
+
+CVEs found in ba420875e983e3a5ca4a7e8a09957459fa85f103500da6a27ff7b1200b50118c.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in ba5d324ef29256fd2f5ebd0647dffcf865b56dee21c3ffe0d9fa7dcf4f931741.txt:
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: command and control, TA0011
+CWE-119
+CWE-94
+
+CVEs found in be787b73bbf5f4ea2d4d9c63186d22bc0ba083d0ddc6a226ca1c68df2d93446b.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-20
+
+CVEs found in be7990a55413e17ab34b3c914757d1c7ce1d1e72f229830790f51fafd1e33d5b.txt:
+TTP: execution, TA0002
+TTP: discovery, TA0007
+TTP: command and control, TA0011
+TTP: exfiltration, TA0010
+TTP: impact, TA0040
+CWE-416
+
+CVEs found in c3da34ac0e0fa8174bb3daf2971518322a5a82b785e6b41f9b34e2201f72cbf3.txt:
+TTP: collection, TA0009
+CWE-119
+
+CVEs found in c63a9cda6cd675dce883ad3109454bce59d3af5c7150e88a8433592c9a0c2bd9.txt:
+TTP: execution, TA0002
+TTP: collection, TA0009
+CWE-416
+
+CVEs found in c8bff8ab0e44266267b909a9919e5c2162a8062bc40d3819e5160ef1c495967c.txt:
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in ce3123604e332b165ca4d147299352c5b575aedc7c77e7786c58c1f66ad44182.txt:
+TTP: impact, TA0040
+CWE-119
+
+CVEs found in cff16fdf149b742114a4db9d8b548c82c30664479cbd58a9fc62433dda12272c.txt:
+TTP: phishing, T1566
+CWE-119
+
+CVEs found in d0a67d6abc43196fc68f02e46a77d60c75afc179f3452f8439a7ac12b19ef9c8.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+TTP: discovery, TA0007
+CWE-787
+
+CVEs found in d37fe258c8bdc78b9bff6074f2d7967f29eaa23b8089667d7af083b7f95be078.txt:
+TTP: execution, TA0002
+CWE-434
+
+CVEs found in d3d363f853015ae2dd84a4c57b66d6ba0803964277571a63f3031d2195756840.txt:
+TTP: phishing, T1566
+TTP: execution, TA0002
+CWE-22
+
+CVEs found in d5be2d49e3253aeacd524c3fa9033de836f50a233e7cfb1318bfa01c023a3782.txt:
+TTP: browser extensions, T1176
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-476
+
+CVEs found in df57f68fc514324760d3f6c9a975fa3acc55f63814f6c02f175835d84a219f98.txt:
+TTP: phishing, T1566
+TTP: proxy, T1090
+TTP: reconnaissance, TA0043
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+TTP: discovery, TA0007
+TTP: exfiltration, TA0010
+CWE-843
+
+CVEs found in e3cee285dddedd2016e1fe9c79a2b46500265c37418556f9482fecc1f1389722.txt:
+TTP: rootkit, T1014
+TTP: execution, TA0002
+CWE-119
+CWE-78
+
+CVEs found in e5627f55814117c9d6131cd32de67b2389f00813e956e115f163690e9b8624ae.txt:
+TTP: proxy, T1090
+CWE-401
+CWE-200
+
+CVEs found in e7beae85b139ffb4d7ebcf0f264644368caf1fe1a4b764581fdbf0cd7151e69d.txt:
+TTP: remote services, T1021
+TTP: execution, TA0002
+CWE-20
+
+CVEs found in e81c8d4ac90d5f07da4babf1f61e6b320f66d14c2b71b33da9310bd01a067f40.txt:
+TTP: execution, TA0002
+CWE-119
+
+CVEs found in e89b5b5d1dc851ea701099b96f7014f7cfd676aec4c71b7617683c2ad18813b1.txt:
+TTP: execution, TA0002
+CWE-787
+
+CVEs found in e8df379efd743f78bb66594b8bac12d108009349f24023fdc26d65b2b7b00a71.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-787
+
+CVEs found in ea3e3cbf7438d3a0bcff35a9f96a5c4424080992746f08c76a5a208e7b535bbb.txt:
+TTP: windows management instrumentation, T1047
+TTP: reconnaissance, TA0043
+TTP: initial access, TA0001
+TTP: impact, TA0040
+CWE-269
+
+CVEs found in f258f1511293794542ba1fe6478059f0b4cdd90a2f9c4bda31d69334a447827d.txt:
+TTP: execution, TA0002
+TTP: privilege escalation, TA0004
+CWE-119
+CWE-94
+
+CVEs found in fc84ccb93aac505c213745737e3d30b320b3305ee6d7fb856ba831ad1e0d5a68.txt:
+TTP: privilege escalation, TA0004
+CWE-284
+
+CVEs found in fd1bc399826f0a75adbd2dc051da54532620acbd8d7767bd517dd44e647f3844.txt:
+TTP: phishing, T1566
+TTP: execution, TA0002
+TTP: impact, TA0040
+CWE-119

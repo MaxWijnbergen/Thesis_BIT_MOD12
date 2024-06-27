@@ -1,0 +1,396 @@
+Summary Report
+=================
+
+Top TTPs:
+TTP: execution, TA0002: 85
+TTP: impact, TA0040: 34
+TTP: phishing, T1566: 24
+TTP: privilege escalation, TA0004: 20
+TTP: proxy, T1090: 14
+TTP: collection, TA0009: 10
+TTP: persistence, TA0003: 9
+TTP: command and control, TA0011: 8
+TTP: discovery, TA0007: 8
+TTP: exfiltration, TA0010: 7
+TTP: rootkit, T1014: 6
+TTP: initial access, TA0001: 5
+TTP: reconnaissance, TA0043: 5
+TTP: browser extensions, T1176: 5
+TTP: web service, T1102: 3
+TTP: windows management instrumentation, T1047: 2
+TTP: lateral movement, TA0008: 2
+TTP: brute force, T1110: 2
+TTP: modify registry, T1112: 2
+TTP: process injection, T1055: 1
+TTP: remote system discovery, T1018: 1
+TTP: system network configuration discovery, T1016: 1
+TTP: data from local system, T1005: 1
+TTP: exploitation for client execution, T1203: 1
+TTP: user execution, T1204: 1
+TTP: data manipulation, T1565: 1
+TTP: masquerading, T1036: 1
+TTP: non-standard port, T1571: 1
+TTP: dynamic resolution, T1568: 1
+TTP: data obfuscation, T1001: 1
+TTP: remote services, T1021: 1
+
+Top CWEs:
+CWE-119: 42
+CWE-20: 33
+CWE-787: 23
+CWE-416: 14
+CWE-94: 13
+CWE-200: 12
+CWE-78: 7
+CWE-22: 6
+CWE-125: 5
+CWE-269: 4
+CWE-89: 4
+CWE-843: 4
+CWE-287: 4
+CWE-79: 4
+CWE-611: 3
+CWE-415: 3
+CWE-732: 2
+CWE-502: 2
+CWE-203: 2
+CWE-863: 2
+CWE-190: 2
+CWE-59: 2
+CWE-362: 2
+CWE-284: 2
+CWE-352: 2
+CWE-426: 2
+CWE-476: 2
+CWE-404: 2
+CWE-347: 2
+CWE-77: 1
+CWE-918: 1
+CWE-835: 1
+CWE-120: 1
+CWE-601: 1
+CWE-665: 1
+CWE-295: 1
+CWE-367: 1
+CWE-330: 1
+CWE-346: 1
+CWE-763: 1
+CWE-704: 1
+CWE-908: 1
+CWE-681: 1
+CWE-434: 1
+CWE-401: 1
+
+TTP to CWE mapping:
+TTP: execution, TA0002:
+  CWE-119: 30
+  CWE-20: 29
+  CWE-787: 21
+  CWE-416: 14
+  CWE-94: 10
+  CWE-200: 9
+  CWE-22: 5
+  CWE-78: 5
+  CWE-125: 4
+  CWE-843: 4
+  CWE-269: 3
+  CWE-287: 3
+  CWE-415: 3
+  CWE-611: 2
+  CWE-502: 2
+  CWE-203: 2
+  CWE-863: 2
+  CWE-190: 2
+  CWE-59: 2
+  CWE-89: 2
+  CWE-476: 2
+  CWE-79: 2
+  CWE-404: 2
+  CWE-347: 2
+  CWE-77: 1
+  CWE-918: 1
+  CWE-835: 1
+  CWE-362: 1
+  CWE-120: 1
+  CWE-284: 1
+  CWE-601: 1
+  CWE-426: 1
+  CWE-665: 1
+  CWE-367: 1
+  CWE-330: 1
+  CWE-346: 1
+  CWE-763: 1
+  CWE-352: 1
+  CWE-732: 1
+  CWE-908: 1
+  CWE-681: 1
+  CWE-434: 1
+
+TTP: impact, TA0040:
+  CWE-20: 14
+  CWE-119: 12
+  CWE-416: 6
+  CWE-200: 6
+  CWE-787: 5
+  CWE-22: 3
+  CWE-94: 3
+  CWE-125: 3
+  CWE-78: 3
+  CWE-611: 2
+  CWE-89: 2
+  CWE-843: 2
+  CWE-287: 2
+  CWE-352: 2
+  CWE-77: 1
+  CWE-732: 1
+  CWE-863: 1
+  CWE-190: 1
+  CWE-59: 1
+  CWE-284: 1
+  CWE-79: 1
+  CWE-415: 1
+  CWE-476: 1
+  CWE-203: 1
+  CWE-763: 1
+  CWE-704: 1
+  CWE-269: 1
+
+TTP: phishing, T1566:
+  CWE-119: 9
+  CWE-20: 6
+  CWE-94: 3
+  CWE-22: 3
+  CWE-787: 3
+  CWE-416: 2
+  CWE-287: 2
+  CWE-200: 2
+  CWE-78: 2
+  CWE-284: 1
+  CWE-89: 1
+  CWE-295: 1
+  CWE-352: 1
+  CWE-79: 1
+  CWE-125: 1
+  CWE-476: 1
+  CWE-843: 1
+
+TTP: process injection, T1055:
+  CWE-119: 1
+
+TTP: rootkit, T1014:
+  CWE-119: 5
+  CWE-287: 1
+  CWE-20: 1
+  CWE-787: 1
+  CWE-78: 1
+
+TTP: persistence, TA0003:
+  CWE-119: 4
+  CWE-94: 3
+  CWE-20: 2
+  CWE-22: 2
+  CWE-416: 1
+  CWE-835: 1
+  CWE-120: 1
+  CWE-287: 1
+  CWE-200: 1
+  CWE-78: 1
+  CWE-89: 1
+
+TTP: command and control, TA0011:
+  CWE-119: 3
+  CWE-22: 2
+  CWE-94: 2
+  CWE-416: 2
+  CWE-732: 1
+  CWE-78: 1
+  CWE-20: 1
+
+TTP: initial access, TA0001:
+  CWE-20: 2
+  CWE-22: 2
+  CWE-77: 1
+  CWE-787: 1
+  CWE-732: 1
+  CWE-94: 1
+  CWE-119: 1
+  CWE-287: 1
+  CWE-269: 1
+  CWE-78: 1
+  CWE-611: 1
+
+TTP: remote system discovery, T1018:
+  CWE-732: 1
+  CWE-22: 1
+
+TTP: system network configuration discovery, T1016:
+  CWE-732: 1
+  CWE-22: 1
+
+TTP: windows management instrumentation, T1047:
+  CWE-732: 1
+  CWE-22: 1
+  CWE-269: 1
+  CWE-78: 1
+  CWE-611: 1
+
+TTP: discovery, TA0007:
+  CWE-732: 2
+  CWE-22: 2
+  CWE-78: 2
+  CWE-287: 1
+  CWE-200: 1
+  CWE-89: 1
+  CWE-20: 1
+  CWE-362: 1
+  CWE-119: 1
+  CWE-94: 1
+  CWE-426: 1
+  CWE-416: 1
+  CWE-269: 1
+  CWE-908: 1
+  CWE-863: 1
+  CWE-415: 1
+  CWE-787: 1
+  CWE-681: 1
+  CWE-843: 1
+
+TTP: lateral movement, TA0008:
+  CWE-732: 1
+  CWE-22: 1
+  CWE-119: 1
+  CWE-287: 1
+
+TTP: exfiltration, TA0010:
+  CWE-22: 3
+  CWE-200: 2
+  CWE-416: 2
+  CWE-732: 1
+  CWE-94: 1
+  CWE-20: 1
+  CWE-287: 1
+  CWE-78: 1
+  CWE-89: 1
+  CWE-843: 1
+
+TTP: collection, TA0009:
+  CWE-119: 6
+  CWE-416: 2
+  CWE-94: 1
+  CWE-20: 1
+  CWE-200: 1
+  CWE-787: 1
+  CWE-502: 1
+
+TTP: data from local system, T1005:
+  CWE-94: 1
+  CWE-20: 1
+  CWE-22: 1
+
+TTP: exploitation for client execution, T1203:
+  CWE-94: 1
+  CWE-20: 1
+  CWE-22: 1
+
+TTP: proxy, T1090:
+  CWE-20: 5
+  CWE-119: 5
+  CWE-200: 4
+  CWE-94: 2
+  CWE-22: 2
+  CWE-287: 2
+  CWE-89: 2
+  CWE-78: 1
+  CWE-79: 1
+  CWE-352: 1
+  CWE-763: 1
+  CWE-843: 1
+  CWE-401: 1
+
+TTP: user execution, T1204:
+  CWE-94: 1
+  CWE-20: 1
+  CWE-22: 1
+
+TTP: web service, T1102:
+  CWE-20: 3
+  CWE-94: 1
+  CWE-22: 1
+  CWE-119: 1
+
+TTP: privilege escalation, TA0004:
+  CWE-119: 5
+  CWE-787: 5
+  CWE-20: 3
+  CWE-269: 2
+  CWE-22: 2
+  CWE-502: 2
+  CWE-416: 2
+  CWE-94: 2
+  CWE-287: 2
+  CWE-415: 2
+  CWE-918: 1
+  CWE-120: 1
+  CWE-601: 1
+  CWE-404: 1
+  CWE-347: 1
+  CWE-367: 1
+  CWE-330: 1
+  CWE-89: 1
+  CWE-732: 1
+  CWE-908: 1
+  CWE-863: 1
+  CWE-78: 1
+  CWE-681: 1
+  CWE-476: 1
+  CWE-843: 1
+  CWE-284: 1
+
+TTP: data manipulation, T1565:
+  CWE-119: 1
+
+TTP: reconnaissance, TA0043:
+  CWE-119: 2
+  CWE-287: 1
+  CWE-416: 1
+  CWE-843: 1
+  CWE-269: 1
+  CWE-78: 1
+  CWE-611: 1
+
+TTP: masquerading, T1036:
+  CWE-119: 1
+  CWE-284: 1
+
+TTP: brute force, T1110:
+  CWE-125: 1
+  CWE-119: 1
+  CWE-94: 1
+  CWE-426: 1
+
+TTP: non-standard port, T1571:
+  CWE-287: 1
+  CWE-22: 1
+  CWE-200: 1
+  CWE-78: 1
+  CWE-89: 1
+
+TTP: modify registry, T1112:
+  CWE-119: 2
+
+TTP: browser extensions, T1176:
+  CWE-200: 2
+  CWE-20: 1
+  CWE-787: 1
+  CWE-476: 1
+
+TTP: dynamic resolution, T1568:
+  CWE-119: 1
+  CWE-94: 1
+
+TTP: data obfuscation, T1001:
+  CWE-787: 1
+
+TTP: remote services, T1021:
+  CWE-20: 1
+
