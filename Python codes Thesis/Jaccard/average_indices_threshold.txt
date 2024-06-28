@@ -1,0 +1,252 @@
+Overall Average: 0.3311
+
+TTP: browser extensions, T1176 - CWE-20: 0.1152
+TTP: browser extensions, T1176 - CWE-200: 0.2833
+TTP: browser extensions, T1176 - CWE-476: 0.3500
+TTP: browser extensions, T1176 - CWE-787: 0.1217
+TTP: brute force, T1110 - CWE-119: 0.2619
+TTP: brute force, T1110 - CWE-125: 0.3500
+TTP: brute force, T1110 - CWE-426: 0.5000
+TTP: brute force, T1110 - CWE-94: 0.2884
+TTP: collection, TA0009 - CWE-119: 0.3715
+TTP: collection, TA0009 - CWE-20: 0.0651
+TTP: collection, TA0009 - CWE-200: 0.0917
+TTP: collection, TA0009 - CWE-416: 0.1714
+TTP: collection, TA0009 - CWE-502: 0.3000
+TTP: collection, TA0009 - CWE-787: 0.0718
+TTP: collection, TA0009 - CWE-94: 0.0885
+TTP: command and control, TA0011 - CWE-119: 0.2232
+TTP: command and control, TA0011 - CWE-20: 0.0776
+TTP: command and control, TA0011 - CWE-22: 0.2916
+TTP: command and control, TA0011 - CWE-416: 0.1965
+TTP: command and control, TA0011 - CWE-732: 0.3125
+TTP: command and control, TA0011 - CWE-78: 0.1340
+TTP: command and control, TA0011 - CWE-94: 0.2019
+TTP: data from local system, T1005 - CWE-20: 0.5151
+TTP: data from local system, T1005 - CWE-22: 0.5834
+TTP: data from local system, T1005 - CWE-94: 0.5384
+TTP: data manipulation, T1565 - CWE-119: 0.5119
+TTP: data obfuscation, T1001 - CWE-787: 0.5218
+TTP: discovery, TA0007 - CWE-119: 0.0744
+TTP: discovery, TA0007 - CWE-20: 0.0776
+TTP: discovery, TA0007 - CWE-200: 0.1041
+TTP: discovery, TA0007 - CWE-22: 0.2916
+TTP: discovery, TA0007 - CWE-269: 0.1875
+TTP: discovery, TA0007 - CWE-287: 0.1875
+TTP: discovery, TA0007 - CWE-362: 0.3125
+TTP: discovery, TA0007 - CWE-415: 0.2291
+TTP: discovery, TA0007 - CWE-416: 0.0982
+TTP: discovery, TA0007 - CWE-426: 0.3125
+TTP: discovery, TA0007 - CWE-681: 0.5625
+TTP: discovery, TA0007 - CWE-732: 0.6250
+TTP: discovery, TA0007 - CWE-78: 0.2679
+TTP: discovery, TA0007 - CWE-787: 0.0842
+TTP: discovery, TA0007 - CWE-843: 0.1875
+TTP: discovery, TA0007 - CWE-863: 0.3125
+TTP: discovery, TA0007 - CWE-89: 0.1875
+TTP: discovery, TA0007 - CWE-908: 0.5625
+TTP: discovery, TA0007 - CWE-94: 0.1009
+TTP: dynamic resolution, T1568 - CWE-119: 0.5119
+TTP: dynamic resolution, T1568 - CWE-94: 0.5384
+TTP: execution, TA0002 - CWE-119: 0.5336
+TTP: execution, TA0002 - CWE-120: 0.5059
+TTP: execution, TA0002 - CWE-125: 0.4236
+TTP: execution, TA0002 - CWE-190: 0.5118
+TTP: execution, TA0002 - CWE-20: 0.6100
+TTP: execution, TA0002 - CWE-200: 0.4279
+TTP: execution, TA0002 - CWE-203: 0.5118
+TTP: execution, TA0002 - CWE-22: 0.4461
+TTP: execution, TA0002 - CWE-269: 0.3926
+TTP: execution, TA0002 - CWE-284: 0.2559
+TTP: execution, TA0002 - CWE-287: 0.3926
+TTP: execution, TA0002 - CWE-330: 0.5059
+TTP: execution, TA0002 - CWE-346: 0.5059
+TTP: execution, TA0002 - CWE-347: 0.5118
+TTP: execution, TA0002 - CWE-352: 0.2559
+TTP: execution, TA0002 - CWE-362: 0.2559
+TTP: execution, TA0002 - CWE-367: 0.5059
+TTP: execution, TA0002 - CWE-404: 0.5118
+TTP: execution, TA0002 - CWE-415: 0.5176
+TTP: execution, TA0002 - CWE-416: 0.5824
+TTP: execution, TA0002 - CWE-426: 0.2559
+TTP: execution, TA0002 - CWE-434: 0.5059
+TTP: execution, TA0002 - CWE-476: 0.5118
+TTP: execution, TA0002 - CWE-502: 0.5118
+TTP: execution, TA0002 - CWE-59: 0.5118
+TTP: execution, TA0002 - CWE-601: 0.5059
+TTP: execution, TA0002 - CWE-611: 0.3451
+TTP: execution, TA0002 - CWE-665: 0.5059
+TTP: execution, TA0002 - CWE-681: 0.5059
+TTP: execution, TA0002 - CWE-732: 0.2559
+TTP: execution, TA0002 - CWE-763: 0.5059
+TTP: execution, TA0002 - CWE-77: 0.5059
+TTP: execution, TA0002 - CWE-78: 0.3866
+TTP: execution, TA0002 - CWE-787: 0.5800
+TTP: execution, TA0002 - CWE-79: 0.2617
+TTP: execution, TA0002 - CWE-835: 0.5059
+TTP: execution, TA0002 - CWE-843: 0.5235
+TTP: execution, TA0002 - CWE-863: 0.5118
+TTP: execution, TA0002 - CWE-89: 0.2617
+TTP: execution, TA0002 - CWE-908: 0.5059
+TTP: execution, TA0002 - CWE-918: 0.5059
+TTP: execution, TA0002 - CWE-94: 0.4434
+TTP: exfiltration, TA0010 - CWE-20: 0.0866
+TTP: exfiltration, TA0010 - CWE-200: 0.2262
+TTP: exfiltration, TA0010 - CWE-22: 0.4643
+TTP: exfiltration, TA0010 - CWE-287: 0.1965
+TTP: exfiltration, TA0010 - CWE-416: 0.2143
+TTP: exfiltration, TA0010 - CWE-732: 0.3215
+TTP: exfiltration, TA0010 - CWE-78: 0.1429
+TTP: exfiltration, TA0010 - CWE-843: 0.1965
+TTP: exfiltration, TA0010 - CWE-89: 0.1965
+TTP: exfiltration, TA0010 - CWE-94: 0.1099
+TTP: exploitation for client execution, T1203 - CWE-20: 0.5151
+TTP: exploitation for client execution, T1203 - CWE-22: 0.5834
+TTP: exploitation for client execution, T1203 - CWE-94: 0.5384
+TTP: impact, TA0040 - CWE-119: 0.3193
+TTP: impact, TA0040 - CWE-125: 0.3441
+TTP: impact, TA0040 - CWE-190: 0.2647
+TTP: impact, TA0040 - CWE-20: 0.4180
+TTP: impact, TA0040 - CWE-200: 0.3382
+TTP: impact, TA0040 - CWE-203: 0.2647
+TTP: impact, TA0040 - CWE-22: 0.2941
+TTP: impact, TA0040 - CWE-269: 0.1397
+TTP: impact, TA0040 - CWE-284: 0.2647
+TTP: impact, TA0040 - CWE-287: 0.2794
+TTP: impact, TA0040 - CWE-352: 0.5294
+TTP: impact, TA0040 - CWE-415: 0.1813
+TTP: impact, TA0040 - CWE-416: 0.3025
+TTP: impact, TA0040 - CWE-476: 0.2647
+TTP: impact, TA0040 - CWE-59: 0.2647
+TTP: impact, TA0040 - CWE-611: 0.3627
+TTP: impact, TA0040 - CWE-704: 0.5147
+TTP: impact, TA0040 - CWE-732: 0.2647
+TTP: impact, TA0040 - CWE-763: 0.5147
+TTP: impact, TA0040 - CWE-77: 0.5147
+TTP: impact, TA0040 - CWE-78: 0.2584
+TTP: impact, TA0040 - CWE-787: 0.1823
+TTP: impact, TA0040 - CWE-79: 0.1397
+TTP: impact, TA0040 - CWE-843: 0.2794
+TTP: impact, TA0040 - CWE-863: 0.2647
+TTP: impact, TA0040 - CWE-89: 0.2794
+TTP: impact, TA0040 - CWE-94: 0.1595
+TTP: initial access, TA0001 - CWE-119: 0.1119
+TTP: initial access, TA0001 - CWE-20: 0.2303
+TTP: initial access, TA0001 - CWE-22: 0.3667
+TTP: initial access, TA0001 - CWE-269: 0.2250
+TTP: initial access, TA0001 - CWE-287: 0.2250
+TTP: initial access, TA0001 - CWE-611: 0.2666
+TTP: initial access, TA0001 - CWE-732: 0.3500
+TTP: initial access, TA0001 - CWE-77: 0.6000
+TTP: initial access, TA0001 - CWE-78: 0.1714
+TTP: initial access, TA0001 - CWE-787: 0.1217
+TTP: initial access, TA0001 - CWE-94: 0.1385
+TTP: lateral movement, TA0008 - CWE-119: 0.2619
+TTP: lateral movement, TA0008 - CWE-22: 0.3333
+TTP: lateral movement, TA0008 - CWE-287: 0.3750
+TTP: lateral movement, TA0008 - CWE-732: 0.5000
+TTP: masquerading, T1036 - CWE-119: 0.5119
+TTP: masquerading, T1036 - CWE-284: 0.7500
+TTP: modify registry, T1112 - CWE-119: 0.5238
+TTP: non-standard port, T1571 - CWE-200: 0.5416
+TTP: non-standard port, T1571 - CWE-22: 0.5834
+TTP: non-standard port, T1571 - CWE-287: 0.6250
+TTP: non-standard port, T1571 - CWE-78: 0.5715
+TTP: non-standard port, T1571 - CWE-89: 0.6250
+TTP: persistence, TA0003 - CWE-119: 0.2698
+TTP: persistence, TA0003 - CWE-120: 0.5555
+TTP: persistence, TA0003 - CWE-20: 0.1414
+TTP: persistence, TA0003 - CWE-200: 0.0972
+TTP: persistence, TA0003 - CWE-22: 0.2777
+TTP: persistence, TA0003 - CWE-287: 0.1805
+TTP: persistence, TA0003 - CWE-416: 0.0912
+TTP: persistence, TA0003 - CWE-78: 0.1270
+TTP: persistence, TA0003 - CWE-835: 0.5555
+TTP: persistence, TA0003 - CWE-89: 0.1805
+TTP: persistence, TA0003 - CWE-94: 0.2821
+TTP: phishing, T1566 - CWE-119: 0.2946
+TTP: phishing, T1566 - CWE-125: 0.1209
+TTP: phishing, T1566 - CWE-20: 0.2159
+TTP: phishing, T1566 - CWE-200: 0.1250
+TTP: phishing, T1566 - CWE-22: 0.3125
+TTP: phishing, T1566 - CWE-284: 0.2708
+TTP: phishing, T1566 - CWE-287: 0.2917
+TTP: phishing, T1566 - CWE-295: 0.5209
+TTP: phishing, T1566 - CWE-352: 0.2708
+TTP: phishing, T1566 - CWE-416: 0.1131
+TTP: phishing, T1566 - CWE-476: 0.2708
+TTP: phishing, T1566 - CWE-78: 0.1845
+TTP: phishing, T1566 - CWE-787: 0.1277
+TTP: phishing, T1566 - CWE-79: 0.1459
+TTP: phishing, T1566 - CWE-843: 0.1459
+TTP: phishing, T1566 - CWE-89: 0.1459
+TTP: phishing, T1566 - CWE-94: 0.1779
+TTP: privilege escalation, TA0004 - CWE-119: 0.1845
+TTP: privilege escalation, TA0004 - CWE-120: 0.5250
+TTP: privilege escalation, TA0004 - CWE-20: 0.1205
+TTP: privilege escalation, TA0004 - CWE-22: 0.2167
+TTP: privilege escalation, TA0004 - CWE-269: 0.3000
+TTP: privilege escalation, TA0004 - CWE-284: 0.2750
+TTP: privilege escalation, TA0004 - CWE-287: 0.3000
+TTP: privilege escalation, TA0004 - CWE-330: 0.5250
+TTP: privilege escalation, TA0004 - CWE-347: 0.2750
+TTP: privilege escalation, TA0004 - CWE-367: 0.5250
+TTP: privilege escalation, TA0004 - CWE-404: 0.2750
+TTP: privilege escalation, TA0004 - CWE-415: 0.3833
+TTP: privilege escalation, TA0004 - CWE-416: 0.1215
+TTP: privilege escalation, TA0004 - CWE-476: 0.2750
+TTP: privilege escalation, TA0004 - CWE-502: 0.5500
+TTP: privilege escalation, TA0004 - CWE-601: 0.5250
+TTP: privilege escalation, TA0004 - CWE-681: 0.5250
+TTP: privilege escalation, TA0004 - CWE-732: 0.2750
+TTP: privilege escalation, TA0004 - CWE-78: 0.0965
+TTP: privilege escalation, TA0004 - CWE-787: 0.2337
+TTP: privilege escalation, TA0004 - CWE-843: 0.1500
+TTP: privilege escalation, TA0004 - CWE-863: 0.2750
+TTP: privilege escalation, TA0004 - CWE-89: 0.1500
+TTP: privilege escalation, TA0004 - CWE-908: 0.5250
+TTP: privilege escalation, TA0004 - CWE-918: 0.5250
+TTP: privilege escalation, TA0004 - CWE-94: 0.1269
+TTP: process injection, T1055 - CWE-119: 0.5119
+TTP: proxy, T1090 - CWE-119: 0.2380
+TTP: proxy, T1090 - CWE-20: 0.2543
+TTP: proxy, T1090 - CWE-200: 0.3095
+TTP: proxy, T1090 - CWE-22: 0.2381
+TTP: proxy, T1090 - CWE-287: 0.3215
+TTP: proxy, T1090 - CWE-352: 0.2857
+TTP: proxy, T1090 - CWE-401: 0.5357
+TTP: proxy, T1090 - CWE-763: 0.5357
+TTP: proxy, T1090 - CWE-78: 0.1071
+TTP: proxy, T1090 - CWE-79: 0.1607
+TTP: proxy, T1090 - CWE-843: 0.1607
+TTP: proxy, T1090 - CWE-89: 0.3215
+TTP: proxy, T1090 - CWE-94: 0.1483
+TTP: reconnaissance, TA0043 - CWE-119: 0.2238
+TTP: reconnaissance, TA0043 - CWE-269: 0.2250
+TTP: reconnaissance, TA0043 - CWE-287: 0.2250
+TTP: reconnaissance, TA0043 - CWE-416: 0.1357
+TTP: reconnaissance, TA0043 - CWE-611: 0.2666
+TTP: reconnaissance, TA0043 - CWE-78: 0.1714
+TTP: reconnaissance, TA0043 - CWE-843: 0.2250
+TTP: remote services, T1021 - CWE-20: 0.5151
+TTP: remote system discovery, T1018 - CWE-22: 0.5834
+TTP: remote system discovery, T1018 - CWE-732: 0.7500
+TTP: rootkit, T1014 - CWE-119: 0.4762
+TTP: rootkit, T1014 - CWE-20: 0.0985
+TTP: rootkit, T1014 - CWE-287: 0.2083
+TTP: rootkit, T1014 - CWE-78: 0.1548
+TTP: rootkit, T1014 - CWE-787: 0.1051
+TTP: system network configuration discovery, T1016 - CWE-22: 0.5834
+TTP: system network configuration discovery, T1016 - CWE-732: 0.7500
+TTP: user execution, T1204 - CWE-20: 0.5151
+TTP: user execution, T1204 - CWE-22: 0.5834
+TTP: user execution, T1204 - CWE-94: 0.5384
+TTP: web service, T1102 - CWE-119: 0.1785
+TTP: web service, T1102 - CWE-20: 0.5454
+TTP: web service, T1102 - CWE-22: 0.2500
+TTP: web service, T1102 - CWE-94: 0.2051
+TTP: windows management instrumentation, T1047 - CWE-22: 0.3333
+TTP: windows management instrumentation, T1047 - CWE-269: 0.3750
+TTP: windows management instrumentation, T1047 - CWE-611: 0.4166
+TTP: windows management instrumentation, T1047 - CWE-732: 0.5000
+TTP: windows management instrumentation, T1047 - CWE-78: 0.3215
