@@ -1,3 +1,4 @@
+Average Jaccard Index: 0.0881
 Jaccard Index Report
 ====================
 
